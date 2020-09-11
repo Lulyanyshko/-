@@ -1,0 +1,32 @@
+.block{
+    background: #18b5a4;
+    
+    height: 300px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px #000;
+
+}
+li:hover {
+    font-size:24px;
+    background-color: #F89B4D;
+
+}
+head {
+    margin: auto;
+    color: red;
+}
+h1{
+    margin: origin;
+}
+
+p::first-line{
+    color:purple;
+}
+a:link {
+    color: yellow; 
+    }
+a:visited {
+    color: green; 
+a:hover{
+    font-size: 40;
+}
